@@ -1,0 +1,9 @@
+name: TabliczkaHome
+version: '1.0.0'
+main: pl.mace.tabliczkahome.TabliczkaHome
+api-version: '26.3'
+description: Home przez craftowaną, niezniszczalną tabliczkę (2 home, cooldown 5 min, teleport 10 s).
+commands:
+  craftinghome:
+    description: Pokazuje recepturę tabliczki home.
+    usage: /<command>
